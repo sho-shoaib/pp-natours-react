@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/pp-natours-react/static/css/main.eb6087e1.css",
+    "main.js": "/pp-natours-react/static/js/main.a886751f.js",
+    "static/media/nat-6.jpg": "/pp-natours-react/static/media/nat-6.2d00ff9422fb1070945d.jpg",
+    "static/media/nat-5.jpg": "/pp-natours-react/static/media/nat-5.6a01a34858634c5ca25e.jpg",
+    "static/media/hero.jpg": "/pp-natours-react/static/media/hero.15e5f60eb95486007f5a.jpg",
+    "static/media/nat-9.jpg": "/pp-natours-react/static/media/nat-9.b7a3e52c053a5bcace84.jpg",
+    "static/media/nat-7.jpg": "/pp-natours-react/static/media/nat-7.167e44e461bb060f062e.jpg",
+    "static/media/nat-4.jpg": "/pp-natours-react/static/media/nat-4.114dc94031b51b2988c7.jpg",
+    "static/media/nat-8.jpg": "/pp-natours-react/static/media/nat-8.106780313042f8b1c0ff.jpg",
+    "static/media/nat-1.jpg": "/pp-natours-react/static/media/nat-1.0e0a34b98e39ada99a66.jpg",
+    "static/media/nat-3.jpg": "/pp-natours-react/static/media/nat-3.5eff150a33b806a1fb32.jpg",
+    "static/media/nat-2.jpg": "/pp-natours-react/static/media/nat-2.e2a50751c4a3cb86f2e1.jpg",
+    "static/media/logo-white.png": "/pp-natours-react/static/media/logo-white.6c89a3f013a3d7593e24.png",
+    "index.html": "/pp-natours-react/index.html",
+    "main.eb6087e1.css.map": "/pp-natours-react/static/css/main.eb6087e1.css.map",
+    "main.a886751f.js.map": "/pp-natours-react/static/js/main.a886751f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb6087e1.css",
+    "static/js/main.a886751f.js"
+  ]
+}
